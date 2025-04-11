@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋 I'm Anush
+I'm a passionate Backend/Saas Dev with a keen interest in Automation, Technology.
 
-<!--
-**anush006/anush006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Skills
+Languages: Python, C++, Java
+Frameworks & Libraries: Flask, Django
+Tools & Platforms: Zapier, n8n, Supabase
 
-Here are some ideas to get you started:
+🚀 What I'm Up To
+Currently working on a Saas product.
+Learning Automation using no code tools.
+Looking to collaborate on automation and backend projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect With Me
+Twitter: https://x.com/anushoffcl
+📫 Reach me at: anushoffcl@gmail.com
