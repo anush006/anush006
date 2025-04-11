@@ -18,5 +18,5 @@ A passionate **Backend/SaaS Developer** with a growing love for **automation** a
 ---
 
 ### 🌐 Connect With Me  
-🐦 Twitter: [@anushoffcl](https://x.com/anushoffcl)  
+🐦 Twitter: [@anushoffcl](https://x.com/anush006)  
 📫 Email: anushoffcl@gmail.com  
