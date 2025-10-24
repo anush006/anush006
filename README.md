@@ -1,22 +1,7 @@
-### Hi there! 👋 I'm Anush  
-A passionate **Backend/SaaS Developer** with a growing love for **automation** and smart tech.
+Hey! Anush here 👋
 
----
+I like building stuff—mostly backend systems and web apps. I’ve delivered client projects, tinker with side projects, and enjoy making ideas actually work.
 
-### 💻 Technical Skills  
-**Languages:** Python, C++, Java  
-**Frameworks:** Flask, Django  
-**Platforms & Tools:** Supabase, Zapier, n8n
+💻 Tech I Use: Python, C++, Java | FastAPI, Flask, Django | Supabase, MongoDB, PostgreSQL
 
----
-
-### 🚀 What I'm Up To  
-- Building a SaaS product from scratch  
-- Learning automation using no-code tools  
-- Open to collabs on backend and automation projects
-
----
-
-### 🌐 Connect With Me  
-🐦 Twitter: [@anushoffcl](https://x.com/anush006)  
-📫 Email: anushoffcl@gmail.com  
+🚀 Right Now: Working on client projects, experimenting with backend ideas, and learning new tech.
